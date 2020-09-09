@@ -12,6 +12,9 @@ end
 def crew 
   ["Stacey", "Bill", "Bob"]
 end
+
+def greet_crew
+  
   
 def engage(date)
   date = star_date
