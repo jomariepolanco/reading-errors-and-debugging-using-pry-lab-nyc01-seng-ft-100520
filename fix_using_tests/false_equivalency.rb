@@ -1,5 +1,5 @@
 # don't forget to add: require 'pry'
-requie pry
+requie 'pry'
 
 def get_user_input
   gets.chomp
