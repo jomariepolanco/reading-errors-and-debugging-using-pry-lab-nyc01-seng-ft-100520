@@ -9,7 +9,9 @@ def state_log(star_date)
   "Captain's Log, star date #{star_date}."
 end
 
-def crew
+def 
+  ["Stacey", "Bill", "Bob"]
+  
 def engage(date)
   date = star_date
   p date
