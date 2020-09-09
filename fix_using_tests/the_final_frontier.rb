@@ -14,7 +14,7 @@ def crew
 end
 
 def greet_crew(crew)
-  crew.each("Hello #{crew member}")
+  "Hello #{crew[i]}"
 end 
   
 def engage
