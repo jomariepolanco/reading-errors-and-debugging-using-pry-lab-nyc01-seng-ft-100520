@@ -13,7 +13,7 @@ def crew
   ["Stacey", "Bill", "Bob"]
 end
 
-def greet_crew
+def greet_crew(crew)
   
   
 def engage(date)
